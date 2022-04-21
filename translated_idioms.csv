@@ -1,0 +1,156 @@
+,Original,TranslENtoEStoEN,MatchScore
+0,A little learning is a dangerous thing,A little learning is a dangerous thing,1.0
+1,A snowball effect,A snowball effect,1.0
+2,A snowball's chance in hell,A snowball's chance in hell,1.0
+3,A stitch in time saves nine,A stitch in time saves nine,1.0
+4,A storm in a teacup,A storm in a cup of tea,0.7619047619047619
+5,An apple a day keeps the doctor away,An apple a day keeps the doctor away,1.0
+6,An ounce of prevention is worth a pound of cure,An ounce of prevention is worth a pound of cure,1.0
+7,As right as rain,as good as rain,0.7096774193548387
+8,Bolt from the blue,lightning bolt from the sky,0.5777777777777777
+9,Burn bridges,burn bridges,0.9166666666666666
+10,Calm before the storm,The calm before the storm,0.8695652173913043
+11,Come rain or shine,Rain or shine,0.7741935483870968
+12,Curiosity killed the cat,Curiosity killed the cat,1.0
+13,Cut the mustard,cut the mustard,0.9333333333333333
+14,Don't beat a dead horse,Don't hit a dead horse,0.8888888888888888
+15,Every dog has his day,Every dog has his day,1.0
+16,Familiarity breeds contempt,Familiarity Breeds Contempt,0.9259259259259259
+17,Fit as a fiddle,in good physical condition,0.14634146341463414
+18,Fortune favours the bold,fortune favors the bold,0.9361702127659575
+19,Get a second wind,get a second wind,0.9411764705882353
+20,Get wind of something,get wind of something,0.9523809523809523
+21,Go down in flames,go down in flames,0.9411764705882353
+22,Haste makes waste,haste makes waste,0.9411764705882353
+23,Have your head in the clouds        ,Have your head in the clouds,0.875
+24,He who laughs last laughs loudest,He who laughs last laughs loudest,1.0
+25,Hear something straight from the horse's mouth,Hear something directly from the horse's mouth.,0.8387096774193549
+26,He's not playing with a full deck,You are not playing with a full deck.,0.8571428571428571
+27,He's off his rocker,he is beside himself,0.41025641025641024
+28,He's sitting on the fence,he is sitting on the fence,0.9019607843137255
+29,It is a poor workman who blames his tools,It is a poor workman who blames his tools,1.0
+30,It is always darkest before the dawn,It's always darkest before dawn,0.8955223880597015
+31,It takes two to tango,It takes two to tango,1.0
+32,Jump on the bandwagon,Play along,0.25806451612903225
+33,Know which way the wind is blowing,Know which way the wind is blowing,1.0
+34,Leave no stone unturned,leave no stone unturned,0.9565217391304348
+35,Let sleeping dogs lie,Let the sleeping dogs lie,0.9130434782608695
+36,Like riding a bicycle,how to ride a bike,0.5128205128205128
+37,Like two peas in a pod,Like two peas in a pod,1.0
+38,Make hay while the sun shines,Make hay while the sun shines,1.0
+39,On cloud nine,on cloud nine,0.9230769230769231
+40,"Once bitten, twice shy",Once bitten twice shy,0.9767441860465116
+41,Out of the frying pan and into the fire,Out of the frying pan and into the fire,1.0
+42,Run like the wind,Run like the wind,1.0
+43,Shape up or ship out,Get in shape or embark,0.38095238095238093
+44,Snowed under,snowy low,0.38095238095238093
+45,That ship has sailed,that ship has sailed,0.95
+46,The pot calling the kettle black,The pot calling the kettle black,1.0
+47,There are clouds on the horizon,There are clouds on the horizon,1.0
+48,Those who live in glass houses shouldn't throw stones,Those who live in glass houses should not throw stones,0.9719626168224299
+49,Through thick and thin,Through thick and thin,1.0
+50,Time is money,Time is money,1.0
+51,"Waste not, want not","Don't waste, don't want",0.5714285714285714
+52,We see eye to eye,we see each other in the eyes,0.6086956521739131
+53,Weather the storm,Stormy weather,0.3870967741935484
+54,Well begun is half done,"Good start, half done",0.5454545454545454
+55,When it rains it pours,when it rains it pours,0.9545454545454546
+56,You can catch more flies with honey than you can with vinegar        ,You can catch more flies with honey than with vinegar,0.8688524590163934
+57,"You can lead a horse to water, but you can't make him drink","You can lead a horse to water, but you can't force it to drink.",0.8852459016393442
+58,You can't make an omelet without breaking some eggs,You can't make an omelette without breaking some eggs.,0.9714285714285714
+59,A blessing in disguise,A blessing in disguise,1.0
+60,A dime a dozen,a dime a dozen,0.9285714285714286
+61,Beat around the bush,Beat around the bush,1.0
+62,Better late than never,Better late than never,1.0
+63,Bite the bullet,bite the bullet,0.9333333333333333
+64,Break a leg,Good luck,0.2
+65,Call it a day,Finish,0.10526315789473684
+66,Cut somebody some slack,Cut somebody some slack,1.0
+67,Cutting corners,cutting corners,0.9333333333333333
+68,Easy does it,easy does it,0.9166666666666666
+69,Get out of hand,go out of hand,0.8275862068965517
+70,Get something out of your system,Get something out of your system,1.0
+71,Get your act together,Get your act together,1.0
+72,Give someone the benefit of the doubt,Give someone the benefit of the doubt,1.0
+73,Go back to the drawing board,Go back to the drawing board,1.0
+74,Hang in there,hang there,0.782608695652174
+75,Hit the sack,hit the sack,0.9166666666666666
+76,It's not rocket science,It is not an exact science,0.7346938775510204
+77,Let someone off the hook,let someone off the hook,0.9583333333333334
+78,Make a long story short,make a long story short,0.9565217391304348
+79,Miss the boat,miss the boat,0.9230769230769231
+80,"No pain, no gain",Without pain there is no gain,0.6222222222222222
+81,On the ball,on the ball,0.9090909090909091
+82,Pull someone's leg,pull someone's leg,0.9444444444444444
+83,Pull yourself together,Take it easy,0.11764705882352941
+84,So far so good,So far so good,1.0
+85,Speak of the devil,speak of the devil,0.9444444444444444
+86,That's the last straw,that's the last straw,0.9523809523809523
+87,The best of both worlds,The best of both worlds,1.0
+88,Time flies when you're having fun,Time flies when you're having fun,1.0
+89,To get bent out of shape,To get out of shape,0.8837209302325582
+90,To make matters worse,to make things worse,0.7317073170731707
+91,Under the weather,under the weather,0.9411764705882353
+92,We'll cross that bridge when we come to it,We'll cross that bridge when we get to it.,0.9285714285714286
+93,Wrap your head around something,wrap your head around something,0.967741935483871
+94,You can say that again,can you say that again,0.8181818181818182
+95,Your guess is as good as mine,Your guest is as good as mine,0.9655172413793104
+96,A bird in the hand is worth two in the bush,A bird in the hand is worth two in the bush,1.0
+97,A penny for your thoughts,a penny for your thoughts,0.96
+98,A penny saved is a penny earned,A penny saved is a penny earned,1.0
+99,A perfect storm,a perfect storm,0.9333333333333333
+100,A picture is worth 1000 words,A picture is worth 1000 words,1.0
+101,Actions speak louder than words,Actions speak louder than words,1.0
+102,Add insult to injury,Add salt to the wound,0.5853658536585366
+103,Barking up the wrong tree,barking up the wrong tree,0.96
+104,Birds of a feather flock together,Birds of a feather flock together,1.0
+105,Bite off more than you can chew,Bite off more than you can chew,1.0
+106,Break the ice,Break the ice,1.0
+107,By the skin of your teeth,by the skin of his teeth,0.8163265306122449
+108,Comparing apples to oranges,Comparing apples to oranges,1.0
+109,Costs an arm and a leg,It costs an arm and a leg,0.8936170212765957
+110,Do something at the drop of a hat,Do something in the blink of an eye,0.7058823529411765
+111,Do unto others as you would have them do unto you,Do to others what you would like them to do to you,0.8282828282828283
+112,Don't count your chickens before they hatch,Don't count your chickens before they hatch,1.0
+113,Don't cry over spilt milk,Don't cry over spilled milk,0.9230769230769231
+114,Don't give up your day job,Don't quit your day job,0.8163265306122449
+115,Don't put all your eggs in one basket,Don't put all your eggs in one basket,1.0
+116,Every cloud has a silver lining,Every cloud has a silver lining,1.0
+117,Get a taste of your own medicine,taste your own medicine,0.8363636363636363
+118,Give someone the cold shoulder,give someone cold,0.6808510638297872
+119,Go on a wild goose chase,Go wild goose hunting,0.6666666666666666
+120,Good things come to those who wait,Good things come to those who wait,1.0
+121,He has bigger fish to fry,He has bigger fish to fry.,0.9803921568627451
+122,He's a chip off the old block,He's a chip off the old block,1.0
+123,Hit the nail on the head,Hit the nail on the head,1.0
+124,Ignorance is bliss,ignorance is welcome,0.6842105263157895
+125,It ain't over till the fat lady sings,It's not over until the fat lady sings,0.88
+126,It takes one to know one,What does it take to know one,0.6792452830188679
+127,It's a piece of cake,It's a piece of cake,1.0
+128,It's raining cats and dogs,It's raining cats and dogs,1.0
+129,Kill two birds with one stone,Two birds with one stone,0.8679245283018868
+130,Let the cat out of the bag,Let the cat out of the bag,1.0
+131,Live and learn,Live and learn,1.0
+132,Look before you leap,look before you jump,0.8
+133,On thin ice,on thin ice,0.9090909090909091
+134,Once in a blue moon,once in a blue moon,0.9473684210526315
+135,Play devil's advocate,Play devil's advocate,1.0
+136,Put something on ice,put something on ice,0.95
+137,Rain on someone's parade,Rain on someone's parade,1.0
+138,Saving for a rainy day,Saving for a rainy day,1.0
+139,Slow and steady wins the race,Slow and steady wins the race,1.0
+140,Spill the beans,Spill the beans,1.0
+141,Take a rain check,Take a rain check,1.0
+142,Take it with a grain of salt,take it with a grain of salt,0.9642857142857143
+143,The ball is in your court,The ball is on your roof,0.8163265306122449
+144,The best thing since sliced bread,The best since sliced bread,0.9
+145,The devil is in the details,The devil is in the details,1.0
+146,The early bird gets the worm,The first AVE takes the worm,0.6428571428571429
+147,The elephant in the room,the elephant in the room,0.9583333333333334
+148,The whole nine yards,The whole nine yards,1.0
+149,There are other fish in the sea,There are other fish in the sea,1.0
+150,There's a method to his madness,There's a method to your madness,0.8888888888888888
+151,There's no such thing as a free lunch,There is no such thing as a free lunch,0.96
+152,Throw caution to the wind,Throw caution to the wind,1.0
+153,You can't have your cake and eat it too,You can't have your cake and eat it too,1.0
+154,You can't judge a book by its cover,You can't judge a book by its cover,1.0
